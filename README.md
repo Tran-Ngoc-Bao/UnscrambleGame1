@@ -1,6 +1,6 @@
-# Lesson 8: App architecture (UI layer)
+## Lesson 8 (Android Developers): App architecture (UI layer)
 
-## Store data in ViewModel 
+### Store data in ViewModel 
 
 Improve your app by implementing a ViewModel to retain app data during configuration changes. 
 
