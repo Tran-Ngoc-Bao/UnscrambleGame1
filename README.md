@@ -1,25 +1,7 @@
-Unscramble App
-===================================
+# Lesson 8: App architecture (UI layer)
 
-Single player game app that displays scrambled words. To play the game, player has to make a
-word using all the letters in the displayed scrambled word.
-This code demonstrates the Android Architecture component- ViewModel and LiveData.
-This code sample also demonstrates how to implement Data Binding with LiveData.
+## Store data in ViewModel 
 
-Used in the [Android Basics with Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) course.
+Improve your app by implementing a ViewModel to retain app data during configuration changes. 
 
-
-Pre-requisites
---------------
-
-You need to know:
-- How to use Fragments
-- How to design a layout in ConstraintLayout
-- How to write control flow statements (if / else, when statements)
-- How to update the UI of the app based on user input
-- How to add a click listener to a Button
-
-Getting Started
----------------
-
-1. Download and run the app.
+<a href="https://developer.android.com/codelabs/basic-android-kotlin-training-viewmodel?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-development-with-kotlin-8%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-viewmodel#14">Link Colab</a>
